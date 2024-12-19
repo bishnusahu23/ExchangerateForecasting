@@ -1,6 +1,6 @@
 # FORECASTING EXCHANGE RATES USING TIME SERIES ANALYSIS
 ## Objective:
-Leverage ARIMA, SARIMA and Exponential Smoothing techniques to forecast future exchange rates based on historical data provided in the exchange_rate.csv dataset. 
+Leverage ARIMA, SARIMA and Exponential Smoothing techniques to forecast future exchange rates USD to Australian Dollar based on historical data. 
 ## Dataset:
 The dataset contains historical exchange rate with each column representing a different currency rate over time. The first column indicates the date, and second column represent exchange rates USD to Australian Dollar.
 ## Analysis:
